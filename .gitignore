@@ -1,0 +1,11 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+package.json
+package-lock.json
+nuxt.config.ts
+tsconfig.json
